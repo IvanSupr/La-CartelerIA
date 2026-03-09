@@ -33,9 +33,9 @@ El proyecto está organizado como una aplicación web con frontend y backend int
 
 ## Instalación y ejecución
 
-### 1. Clonar el repositorio
 
 ```bash
+1. Clonar el repositorio
 git clone https://github.com/IvanSupr/la-carteleria.git
 cd la-carteleria
 
